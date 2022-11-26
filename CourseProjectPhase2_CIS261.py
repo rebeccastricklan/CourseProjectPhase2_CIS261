@@ -69,7 +69,7 @@ def PrintTotals(EmpTotals):
 
 if __name__ == "__main__":
 
-    EmpDetailLis = []
+    EmpDetailList = []
     EmpTotals = {}
     while True:
         empname = GetEmpName()
